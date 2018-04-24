@@ -1,67 +1,130 @@
 # Project Introduction
 
-## Project Objectives
-The main goal of this project was to create a simple multi-player based party game in the Unity video game engine, 
-akin to Mario Party for example.
-The game has to have entertainment value. Have simple rules, be easy to follow and must be capable of being completed, 
-the game must not be too difficult.
-
-The main goals for the game are as follows
-
-- There are a minimum of three players.
-
-- One player controls an antagonist type character represented by a series of fire balls. These fireballs are lined up 
-horizontally and vertically.
-
-- The fireballs lined up vertically can only move from left to right, and the the fireballs lined up horizontally can 
-only move up and down.
-
-- Two or more players control the protagonist characters. It is their job to each try and survive the level for 60 seconds.
-
-- It is the player controlling the antagonist's role to move the fireballs around in an attempt to kill the protagonist players.
-
-- While it is the protagonists job to avoid these fireballs while also attempting to hinder the other player(s).
-
-- There are pickups which can be collected at certain intervals throughout the level.
-
-- One pickup is a shield which provides the player with invincibility for a short period of time from the fireballs.
-
-- One pickup is an ice blast, which when picked up adds to an inventory and is used as a projectile to freeze the other
-
- player in place.
-
-- There are two game over screens. One which displays when all protagonist are killed, and another which displays when a protagonist(s) survive for 60 seconds.
-
-
 ## Overview of Project
-For the third year project I decided to develop a game within the Unity engine that would have multi-player elements to it.
-When the game was completed it would be tested within the engine using Xbox controllers and the keyboard on the PC itself.
+The following project which was undertaken is an online web application developed using the
+Symfony 3[1] framework. Symfony is a PHP based web application framework, with a set of reusable PHP components and libraries which first published in 2005. Other web applications
+which use this framework include; prestshop.com[2], sonota-project.org[3] and pimcore.com[4].
+The purpose of this web application is to create an application for "Health Centre Ireland", which is targeted for users who are suffering from an illness, whether it be a physical illness
+or a mental illness. The idea for this project came when reading articles about Mental Health in Ireland and how there is a lack of general knowledge in the media and throughout
+the public when it comes to this affliction. So the idea of developing an app, which could both be informative, and used as an assistant to people suffering from this disease.
+The idea for including other diseases came from wondering if the public had knowledge about other illness which effect people in the country, and deciding to incorporate
+these other illness' into the application also. 
 
-The game consists of a minimum of 3 players, one player controlling the antagonist represented by a series of fireballs, 
-and at least two players controlling the protagonists consisting of the "Gravity Guys". The two players try so survive the level,
-while also hindering the other players with pickups which can be collected throughout the level.
+There are many services and charities which offer help to people suffering with these illness', and this web application will act as a hub where users can find out information relating to their illness,
+find out exercises which they can partake in to potentially help or relive pain relating to their specified illness.
+This application can also be used as an assistant, to potentially help anyone who suffer with these diseases' in a similar vein to previous assistant applications 
+such as Pill Reminder[5] and MedCoach[6], two mobile applications for both Android and iOS which remind users when to take medication. This application will include a calendar which users can set
+these kind of reminders, along with reminders of when to do exercises that can potentially relieve pain for their illness.
+Users signed up to this application should also have a method of communication, which can be used to talk about their personal experiences in battling with illness, and medication
+which they have taken to other users on the site.
 
-The project was originally supposed to be a group project, it eventually became an individual project. The project started out
-as a group deciding what would be the best way to undergo research in how to develop this game? What type of a game would it be?
-How could this game be developed into an easy to play, and most of all, a fun multi-player experience?
+## Project Objectives & Goals
+The main objectives and goals for the project are as follows.
 
-Research was started by looking at the Unity engine itself and previous games which have been developed in the engine 
-and the capabilities shown
-in these games and if it would be possible to implement these features into the game I was developing. More research was conducted
-into multi-player player games in general, such as their popularity and how can you and your fellow players can enjoy the 
-experience as much as possible?
+* Research exercise methods which can be used to relive pain of diseases and if these methods are proven to be effective
 
-Also looked at was the issues that some of these games had, and how exactly could they be improved upon in the game that 
-was being developed for this project. The final game would then hopefully be completed using the information gathered from
-the conducted research. A demo of the project was displayed in December to show how the basics of how the game would work,
-with a full working version being finished by the end of April.
+* Create a web based application "Health Centre Ireland" to assist anyone who is suffering from physical or mental illness
 
-![Overview of Project \label{projetoverview}](./03_figures/introduction/projectoverview.png)
+* Make sure that the application is ascetically pleasing, easy to use, along with having a good responsive design.
+
+* Interaction with the app should be straight forward and every user should know exactly what to do on each page, along with what each page is for
+
+* Implement functionality for:
+    * User Registration
+    * User Login
+    * Routing Security
+    * A Scheduler for each User
+    * A Communication System
+    
+* Create databases which store:
+    * User Information
+    * Scheduler Information
+    * Information Regarding User Communication
+
+## Main Research Questions
+When developing an application such as this which deals assisting a wide variety of people many questions must be asked in regard to the project,
+questions such as;
+
+* How will this application be implemented to suit each individuals affliction?
+
+* What illnesses and afflictions will be dealt with.
+
+* How will any difficulty that arises during the research life cycle be dealt with?
+
+* What topics must be researched to make this application as effective as possible for its target audience?
+
+* Why use Symfony when implementing a project like this, as opposed to another web development framework?
+
+* Are there any other similar technologies or applications in the marketplace right now?
+    * If so, research these and find out what makes these applications so successful and try to improve on them
+
+There are multiple ways in which these topics can be researched, such as the many books and articles relating to these matters that would make for
+excellent research material, some of the likes including; Cancer Fitness: Exercise Programs for Patients and Survivors by Anna L. Schwartz[7],
+Overcoming Arthritis: The Complete Complementary Health Program by Dr. Sarah Brewer[8], and for implenting the project and learning about the Symfony framework;
+An Introduction to Symfony 3 by Dr. Matt Smith[9].
+
+## Technologies Used
+
+* Software Used for Server:
+    * PHP built in Web Server
+    * PHP
+    * MySQL Database
+
+* Software Used for Web Application Development:
+    * PHP Storm
+    * HTML
+    * Twig(Template Engine)
+    * JavaScript
+    * CSS
+    * MySQL Workbench
+    * Symfony 3
+    
+* Device Used for Testing and Demonstration
+    * Lenovo Z50-75(Windows 10, 8GB of RAM, AMD FX-7500 Radeon R7 Processor)
+    
+All of the required software is free of charge besides PHP Storm which requires a student subscription to be free of charge,
+otherwise it will cost 199€ for a year subscription. 
+
+## Methodologies
+Initially research will have to be conducted for the project in the area of Web Application Development, along with research for the
+illness' which the users can sign up with, such as how many people in Ireland suffer from these illness' and the exercises that can be done to relieve pain for these.
+The "Research Life Cycle"[10] will also be closely followed. The reasoning for this is so that focus is not lost at any point, and throughout the life cycle the current
+step as to what must be done is always known. By following the Research Life Cycle the implementation of the project will be much easier.
+
+The following steps of the research life cycle will be taken into consideration;
+
+![Research Life Cycle \label{researchlifecycle}](03_figures/introduction/researchlifecycle.png)
+
+### Choose Area and Project
+During this stage the project has been chosen. This includes the area of expertise for the project, in this case a web development based project.
+It is here where the system will be looked at as a whole, and whether or not the project is feasible and of a suitable standard for a fourth year based project.
+What type of research must be done to accomplish the project should be set out in this phase also.
+
+### Become Well Antiquated with the Literature
+At this stage all the research will be conducted and you familiarise yourself with the literature which may help with the development of the project.
+
+### Decide on and Implement Methodologies
+It is here where the project will start to be implemented and work on the project after all the necessary
+research is conducted and the developer is content with what the final version of the project will be. All of the assets involved with the 
+application will be analysed and then this will form the final project. 
+
+### Produce Results
+The results of the research conduct will be produced and the final idea of what the project will be should be known, and the final implementations, along with the coding of the final project
+should be done here
+
+### Write up Methods, Results, Conclusions, Implications
+This is the final stage, and this will include writing up methods used from the research that has been conducted, along with the results and conclusions came
+to from the research. From this point the coding, along with the deliverables of the software can be met in an effective and thorough way.
+
+## Expected Results
+Once all the research has been conducted and the software is correctly implemented, what is expected is a fully functional dynamic web application, where users can
+register their illness, log in freely, be able to set reminders on exercises, or when they need to take medication, or if they have a doctors appointment. The users should also be able
+to find out information about their specified illness and view a live RSS social media feed of an organisations relating to their illness. They should also be able to communicate with fellow users on the application,
+through a messaging/blog type system. The user should also have wide access to a variety of information regarding their illness, such as useful websites, phone numbers, along with information
+on exercises they can do to help cope with the illness or disorder they may be facing.
 
 ## Overview of Report
-Chapter 2 will contain the research which was conducted into the development of this game, such as looking at video-game engines
-and how they work, what are multi-player games and the different genres of video games.
-Chapter 3 will contain a system analysis of how the game works and the features of the game. While in chapter 4 will look 
-at the key components of the project and how they were implemented. Chapter 5 will focus on the testing of the games features to
-see if they all work correctly. Chapter 6 will be a conclusion of the entire final project, what could be improved in the future.
-Followed by all this will be appendix.
+The contents of this report will show the research that has been conducted into this project, along a system analysis, the implementation
+and design of the system, the testing phase of the system, an evaluation of the project, along with a self reflection.
+The report will finish with conclusions drawn from the project and any further work which could be put into the project in the future to
+improve the application. 

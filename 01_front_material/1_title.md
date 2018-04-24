@@ -5,7 +5,7 @@
         \vspace*{1cm}
         
 
-       \large{ \textbf{ \uppercase{Unity Multiplayer Game}\\Institute of Technology Blanchardstown\\Third Year Computing Project}}
+       \large{ \textbf{ \uppercase{Health Centre Ireland - An App Developed in Symfony 3}\\Institute of Technology Blanchardstown\\Fourth Year Computing Project}}
         \vspace{2cm}
         
         \textbf{Individual Project}\\
@@ -28,7 +28,7 @@
         
         \vfill
   
-            May 2017
+            April 2018
 
      \end{center}
     \thispagestyle{empty}
