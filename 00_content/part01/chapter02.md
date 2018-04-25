@@ -32,7 +32,7 @@ and Matthew R. Smith, MD, Phd.
 The main research questions proposed by the authors in this paper is what hospital-based exercise program is feasible in dealing with patients
 who have non-small cell lung cancer. The reasoning behind the research conducted in this paper is what exercise  can be proven to improve symptoms
 for certain cancer populations, but it is unknown whether or not these exercises are feasible within lung cancer. For the methodology technique
-used to accurately conduct this study, pateitns that were within 12 weeks of diagnosis were eligible to take part in it, while patients who had
+used to accurately conduct this study, patients that were within 12 weeks of diagnosis were eligible to take part in it, while patients who had
 any type of cardiac disease including congestive heart failure were deemed ineligible. The tests were carried out with a senior physical therapist and
 vital signs of the patients were monitored/ These tests included a 6 minute walk test, in which the distance a patient could walk within a 6 minute
 time period, along with a muscle strength exercise which included upper body exercises such as flexing of the shoulders, elbows and extending the elbows too.
@@ -148,10 +148,47 @@ type 1 diabetes. To see if this was possible 1441 patients ages 13-40 were chose
 to intensive or conventional therapy. Intensive therapy consisted of three or more daily injections of insulin with dose adjustments based on the patients
 glucose levels throughout the day. The conventional therapy group did not have to worry about glucose levels and therefor only had to inject two doses of insulin a day.
 
+The studies showed that there was no significant difference between both the intensive treatment group and the conventional treatment group in terms of risk
+when it came to contracting cardiovascular disease at the baseline of the experiment, but by the end of the tests the conventional treatment group came at a much higher risk of cardiovascular
+disease with 98 cardiovascular disease events in 52 patients occurring compared to the 46 events in 31 patients for the intensive treatment.
+Intensive treatment also reduced the risk of cardiovascular disease by 42%. The results concluded that the intensive treatment was beneficial for the group in the reduction
+of cardiovascular disease in type 1 diabetes.
+
 ## Related Work
+But how does all this relate to the work that will be done in the project? In this section of the literature review/research conducted
+it will be discussed how these papers are relevant to the research in regards to the project, their success and effectiveness in answering the questions put forth, the similarities between
+each paper, the advantages and disadvantages once compared, and a summary of all results.
 
+### Relevance
+Each research question deals with how these diseases can be dealt with using effective methods through exercise or self therapy that can be done
+with the aids of research carried out by medical professionals or proven studies. This is relevant to the main application because the purpose of the application
+is to create a hub where people suffering from these diseases can do their own research and set reminders on useful exercises and therapy methods
+which they can carry out in a similar fashion to the studies shown above. Instead of ineffectively doing research, the research already conducted can be made available for the application, meaning
+this information can be accessed in an easier way.
 
-## Success/Effectiveness
+### Success/Effectiveness
+Every single paper which has been reviewed posed a question which was then researched and studied by the authors and this
+proved to be the basis for the papers. Each paper follows a formula to try and be as effective as possible in obtaining answers for the
+research questions. Each researcher followed their own methods for obtaining results, such as conducting surveys, or performing exercises within
+a specified group of people in an allocated amount of time. Overall each question which was asked at the start of every paper was solved through a series of studies and further research
+conducted by the authors.
 
+### Similarities
+Each work does have certain similarities about the way in which the research was conducted, for example they all follow the same formula as previously mentioned.
+They open up with a research question posed about an illness, a disease or a disorder. They go onto to then use a methodology to try and get the most accurate results
+possible for their specified research. While each paper is similar in that they carried out their research by using a specified methodology,
+not all papers used the same methodology when conducting their research. When compared, each paper has their own advantages, and disadvantages. Some papers
+are much more in depth and cover their specific topic in much more detail than others. Papers which include a lack of depth for example when compared are the research papers on depression
+which conducted surveys in an effort to answer the questions posed. The problem here is while the surveys can give you the opinons of
+a large group of people, they often do not give the answer as to why these people feel the way in which they do. Another paper which could be said to lack
+depth of the others, was the research done into arthritis, as the answers provided were done by tests not carried out by the authors themselves, but instead
+was researched and cited by the authors.
 
-## Summary of Results
+### Summary of Results
+Overall each paper did give a result which benefited the research that was conducted and led to valuable information being found when it comes to designing
+an application based around fighting specific pains which a disease or an illness may cause. This research will lead to the application being more effective
+and knowing exactly what exercises lead to benefits in their specific disease, this includes small walking exercises in patients with lung cancer can help to
+fight the deterioration and improve the symptoms of the disease, aerobic and strengthening exercises in helping with muscle function
+activities in fighting Rheumatoid Arthritis, talking to people about depression can be more helpful than fighting it alone, exercises in Alzheimer's disease can lead to improved
+daily activity and lessening the chance of injuries related to the disease and intensive diabetes treatments can lead to a lesser chance of cardiovascular diseases. This information can lead to the application being more useful
+to those in need of a hub where they can find out specific treatments for their disease and use the applications features to help them follow through with these treatments as much as possible.
