@@ -179,7 +179,7 @@ They open up with a research question posed about an illness, a disease or a dis
 possible for their specified research. While each paper is similar in that they carried out their research by using a specified methodology,
 not all papers used the same methodology when conducting their research. When compared, each paper has their own advantages, and disadvantages. Some papers
 are much more in depth and cover their specific topic in much more detail than others. Papers which include a lack of depth for example when compared are the research papers on depression
-which conducted surveys in an effort to answer the questions posed. The problem here is while the surveys can give you the opinons of
+which conducted surveys in an effort to answer the questions posed. The problem here is while the surveys can give you the opinions of
 a large group of people, they often do not give the answer as to why these people feel the way in which they do. Another paper which could be said to lack
 depth of the others, was the research done into arthritis, as the answers provided were done by tests not carried out by the authors themselves, but instead
 was researched and cited by the authors.

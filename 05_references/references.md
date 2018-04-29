@@ -40,7 +40,7 @@ https://symfony.com
 
 [19] Irish Health.com, Alzheimer's Disease, http://www.irishhealth.com
 
-[20] Dvorak RV, Poehlman ET. Appendicular skeletal muscle mass, physical activity, and cognitive status in patients with Alzheimer's disease, Neurology, 1998
+[20] Dvorak RV, Poehlman ET. Appendicular skeletal muscle mass, physical activity, and cognitive status in patients with Alzheimer's disease, Neurology.org, 1998
 
 [21] Santana-Sosa E, Barriopedro M I, Lopez-Mojares M, Perez M, Lucia A, Exercise Training is Beneficial for Alzheimer's Patients, February 08 2008
 
